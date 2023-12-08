@@ -4,7 +4,7 @@
 
 I am a B.Sc Engineer Computer Science & Engineering. I am interested web development. I am still now working web design.
 
-Skills: VUE JS / REACT / JS / HTML / CSS / Node js / Mongodb / Firebase
+Skills: REACT / JS / HTML / CSS / Node js / Mongodb / Firebase / Express js
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shakilahmedgit)](https://github.com/anuraghazra/github-readme-stats)
 
