@@ -14,10 +14,7 @@ Skills: VUE JS / REACT / JS / HTML / CSS / Node js / Mongodb / Firebase
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
-- 💬 Ask me about Web Developer 
-
-
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/shakilahmedgit)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/shakilahmed.prince.509)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://prographicsten.github.io/my-portfolio)  
+- 💬 Ask me about Web Developer  
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shakilahmedgit)](https://github.com/anuraghazra/github-readme-stats)
 
