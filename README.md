@@ -12,6 +12,18 @@ Skills: REACT / JS / HTML / CSS / Node js / Mongodb / Firebase / Express js
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=shakilahmedgit)  
 
 
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+- 💬 Ask me about Web Developer  
+
+
+
 # Car Universe X Project
 
 **Project Overview:**
@@ -37,6 +49,21 @@ Car Universe X is a web application that showcases a variety of cars. Users can 
 
 ---
 
+## Community
+
+We welcome contributions and feedback from the community! Feel free to open issues, submit pull requests, or join our discussions.
+
+## Project Status
+
+The project is actively maintained and developed. Here's the current status:
+
+- **Version:** 1.0.0
+- **Last Update:** [Date]
+- **Open Issues:** [Number]
+- **Pull Requests:** [Number]
+
+---
+
 # Restaurant Party Project
 
 **Project Overview:**
@@ -54,6 +81,21 @@ Restaurant Party is a web application for exploring restaurants. Users can view 
 **How to Run the Project:**
 1. Clone the repository.
 2. Open the `index.html` file in a web browser.
+
+---
+
+## Community
+
+We value community contributions! If you have suggestions, bug reports, or feature requests, please open an issue or submit a pull request.
+
+## Project Status
+
+The project is actively maintained. See below for key details:
+
+- **Version:** 1.2.0
+- **Last Update:** [Date]
+- **Open Issues:** [Number]
+- **Pull Requests:** [Number]
 
 ---
 
@@ -78,16 +120,17 @@ Parcel Management is a web application for tracking and managing parcels. Users 
 3. Install dependencies with `npm install`.
 4. Run the project using `npm start`.
 
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-- 💬 Ask me about Web Developer  
+## Community
 
+Join our community discussions! Whether you want to report issues, propose enhancements, or simply chat, your input is valued.
 
+## Project Status
 
+Stay updated on the project's progress:
+
+- **Version:** 2.1.0
+- **Last Update:** [Date]
+- **Open Issues:** [Number]
+- **Pull Requests:** [Number]
