@@ -6,6 +6,11 @@ I am a B.Sc Engineer Computer Science & Engineering. I am interested web develop
 
 Skills: VUE JS / REACT / JS / HTML / CSS / Node js / Mongodb / Firebase
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shakilahmedgit)](https://github.com/anuraghazra/github-readme-stats)
+
+![GitHub streak stats](https://streak-stats.demolab.com/?user=shakilahmedgit)  
+
+
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
@@ -15,13 +20,6 @@ Skills: VUE JS / REACT / JS / HTML / CSS / Node js / Mongodb / Firebase
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 - 💬 Ask me about Web Developer  
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shakilahmedgit)](https://github.com/anuraghazra/github-readme-stats)
-
-![GitHub streak stats](https://streak-stats.demolab.com/?user=shakilahmedgit)  
-
-
-
 
 
 
