@@ -10,6 +10,8 @@ Skills: REACT / JS / HTML / CSS / Node js / Mongodb / Firebase / Express js
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shakilahmedgit)](https://github.com/anuraghazra/github-readme-stats)
 
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=shakilahmedgit&show_icons=true)  
+
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=shakilahmedgit)  
 
 
