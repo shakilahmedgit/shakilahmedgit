@@ -4,8 +4,8 @@
 
 ![Web Developer](https://i.ibb.co/Sm3PYLD/photo-6314292723821166525-y.jpg)
 
-## My Skills : <img src="https://img.shields.io/badge/-HTML-orange" alt="HTML" width="20" height="20"/>
-
+## My Skills : 
+<img src="https://i.ibb.co/3rbLGR1/photo-6314211802342341247-x.jpg" alt="HTML" width="20" height="20"/>
 
 
 I am a B.Sc Engineer Computer Science & Engineering. I am interested web development. I am still now working web design.
