@@ -4,7 +4,7 @@
 
 ![Web Developer](https://i.ibb.co/Sm3PYLD/photo-6314292723821166525-y.jpg)
 
-## My Skills : ![HTML](https://img.shields.io/badge/-HTML-orange) ![CSS](https://img.shields.io/badge/-CSS-blue)
+## My Skills : <img src="https://img.shields.io/badge/-HTML-orange" alt="HTML" width="100" height="100"/>
 
 
 
