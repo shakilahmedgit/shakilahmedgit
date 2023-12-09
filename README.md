@@ -4,14 +4,19 @@
 
 ![Web Developer](https://i.ibb.co/Sm3PYLD/photo-6314292723821166525-y.jpg)
 
-## My Skills : <img src="https://img.shields.io/badge/-HTML-orange" alt="HTML" width="100" height="20"/> 
-<img src="https://img.shields.io/badge/-CSS-blue" alt="CSS" width="100" height="20"/> 
-<img src="https://img.shields.io/badge/-JavaScript-yellow" alt="JavaScript" width="100" height="20"/> 
-<img src="https://img.shields.io/badge/-React-blue" alt="React" width="100" height="20"/> 
-<img src="https://img.shields.io/badge/-Node.js-green" alt="Node.js" width="100" height="20"/> 
-<img src="https://img.shields.io/badge/-Express.js-lightgrey" alt="Express.js" width="100" height="20"/> 
-<img src="https://img.shields.io/badge/-MongoDB-green" alt="MongoDB" width="100" height="20"/> 
-<img src="https://img.shields.io/badge/-Firebase-yellow" alt="Firebase" width="100" height="20"/>
+## My Skills : 
+<div style="display: grid; grid-template-columns: repeat(auto-fill, minmax(100px, 1fr)); gap: 10px;"> 
+    <img src="https://img.shields.io/badge/-HTML-orange" alt="HTML" width="100" height="20"/> 
+    <img src="https://img.shields.io/badge/-CSS-blue" alt="CSS" width="100" height="20"/> 
+    <img src="https://img.shields.io/badge/-JavaScript-yellow" alt="JavaScript" width="100" height="20"/> 
+    <img src="https://img.shields.io/badge/-React-blue" alt="React" width="100" height="20"/> 
+    <img src="https://img.shields.io/badge/-Node.js-green" alt="Node.js" width="100" height="20"/> 
+    <img src="https://img.shields.io/badge/-Express.js-lightgrey" alt="Express.js" width="100" height="20"/> 
+    <img src="https://img.shields.io/badge/-MongoDB-green" alt="MongoDB" width="100" height="20"/> 
+    <img src="https://img.shields.io/badge/-Firebase-yellow" alt="Firebase" width="100" height="20"/> 
+</div>
+
+
 
 I am a B.Sc Engineer Computer Science & Engineering. I am interested web development. I am still now working web design.
 
